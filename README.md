@@ -1,5 +1,5 @@
-# This is Dhananjay Hawal's page
+Python Leetcode Solved Questions https://github.com/dhananjay93/leetcode/tree/main/python
 
-## I will be uploading my projects on github with this link
+SQL Leetcode Solved Questions https://github.com/dhananjay93/leetcode/tree/main/sql
 
 Performance metrics without sklearn [click here](https://github.com/dhananjay93/dhananjay93.github.io/blob/main/5_Performance_metrics_Instructions.ipynb)
