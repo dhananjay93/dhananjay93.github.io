@@ -6,4 +6,6 @@ Python Leetcode Solved Questions [click here](https://github.com/dhananjay93/lee
 
 SQL Leetcode Solved Questions [click here](https://github.com/dhananjay93/leetcode/tree/main/sql)
 
-Performance metrics without sklearn [click here](https://github.com/dhananjay93/dhananjay93.github.io/blob/main/5_Performance_metrics_Instructions.ipynb)
+Tableau public profile [click here](https://public.tableau.com/app/profile/dhananjay.hawal)
+
+Coding performance metrics without sklearn [click here](https://github.com/dhananjay93/dhananjay93.github.io/blob/main/5_Performance_metrics_Instructions.ipynb)
