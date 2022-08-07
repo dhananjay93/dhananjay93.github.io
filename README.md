@@ -12,6 +12,6 @@ Coding performance metrics without sklearn [click here](https://github.com/dhana
 
 Exploratory Data Analysis of Haberman Dataset [click here](https://github.com/dhananjay93/Machine-Learning/blob/main/Haberman_Dataset.ipynb)
 
-Coding Logistic regression from scratch without using scikit learn [click here] (https://github.com/dhananjay93/Machine-Learning/blob/main/Logistic_Regression_from_Scratch.ipynb)
+Coding Logistic regression from scratch without using sklearn [click here] (https://github.com/dhananjay93/Machine-Learning/blob/main/Logistic_Regression_from_Scratch.ipynb)
 
-Coding TF IDF from scratch without using scikit learn [click here] (https://github.com/dhananjay93/Machine-Learning/blob/main/TF_IDF_from_Scratch.ipynb)
+Coding TF IDF from scratch without using sklearn [click here] (https://github.com/dhananjay93/Machine-Learning/blob/main/TF_IDF_from_Scratch.ipynb)
