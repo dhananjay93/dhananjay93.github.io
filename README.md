@@ -1,6 +1,6 @@
 I had decided to submit atleast one code a day in year 2022. This is the repository of python and SQL questions solved.
 
-  ![image](https://user-images.githubusercontent.com/39691422/182530868-ee12c825-e6e6-4508-8493-80bee9e1423d.png)
+  ![image](https://user-images.githubusercontent.com/39691422/183726605-e15811e1-8cb9-430e-bf26-dceadc5fbf04.png)
 
   Python Leetcode Solved Questions [click here](https://github.com/dhananjay93/leetcode/tree/main/python)
 
