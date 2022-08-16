@@ -1,4 +1,4 @@
-Leetcode 2022 timeline.
+Leetcode 2022 timeline :)
 
   ![image](https://user-images.githubusercontent.com/39691422/184861667-f263bfc2-8ab1-45e8-bf7f-23dedad6b6dd.png)
 
