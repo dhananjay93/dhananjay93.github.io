@@ -1,4 +1,4 @@
-I had decided to submit atleast one code a day in year 2022. This is the repository of python and SQL questions solved.
+Leetcode 2022 timeline.
 
   ![image](https://user-images.githubusercontent.com/39691422/184861667-f263bfc2-8ab1-45e8-bf7f-23dedad6b6dd.png)
 
