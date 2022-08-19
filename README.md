@@ -7,7 +7,8 @@ Leetcode 2022 timeline :)
   SQL Leetcode Solved Questions [click here](https://github.com/dhananjay93/leetcode/tree/main/sql)
 
 SQL Projects:
-  1. Analyze International Debt Statistics [click here](https://github.com/dhananjay93/SQL-Projects/tree/main/Analyze%20International%20Debt%20Statistics)
+  1. Optimizing Online Sports Retail Revenue [click here](https://github.com/dhananjay93/SQL-Projects/blob/main/Optimizing%20Online%20Sports%20Retail%20Revenue/notebook.ipynb)
+  2. Analyze International Debt Statistics [click here](https://github.com/dhananjay93/SQL-Projects/blob/main/Analyze%20International%20Debt%20Statistics/notebook.ipynb)
   
 Tableau public profile [click here](https://public.tableau.com/app/profile/dhananjay.hawal)
 
