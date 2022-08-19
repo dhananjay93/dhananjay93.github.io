@@ -8,7 +8,7 @@ Leetcode 2022 timeline :)
 
 SQL Projects:
   1. Optimizing Online Sports Retail Revenue [click here](https://github.com/dhananjay93/SQL-Projects/blob/main/Optimizing%20Online%20Sports%20Retail%20Revenue/notebook.ipynb)
-  2. When Was the Golden Age of Video Games [click here]https://github.com/dhananjay93/SQL-Projects/blob/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games_/notebook.ipynb
+  2. When Was the Golden Age of Video Games [click here](https://github.com/dhananjay93/SQL-Projects/blob/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games_/notebook.ipynb)
   3. Analyze International Debt Statistics [click here](https://github.com/dhananjay93/SQL-Projects/blob/main/Analyze%20International%20Debt%20Statistics/notebook.ipynb)
   
 Tableau public profile [click here](https://public.tableau.com/app/profile/dhananjay.hawal)
