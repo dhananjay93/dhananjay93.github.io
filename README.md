@@ -1,6 +1,6 @@
 Leetcode 2022 timeline :)
 
-  ![image](https://user-images.githubusercontent.com/39691422/184861667-f263bfc2-8ab1-45e8-bf7f-23dedad6b6dd.png)
+  ![image](https://user-images.githubusercontent.com/39691422/185666981-6f8a21f3-7395-4d7c-b220-8a6cfd688061.png)
 
   Python Leetcode Solved Questions [click here](https://github.com/dhananjay93/leetcode/tree/main/python)
 
