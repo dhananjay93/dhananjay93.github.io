@@ -23,11 +23,8 @@ Coding Logistic regression from scratch without using sklearn [click here](https
 
 Coding TF IDF from scratch without using sklearn [click here](https://github.com/dhananjay93/Machine-Learning/blob/main/TF_IDF_from_Scratch.ipynb)
 
-```html
 <style>
   .footer {
   display:none;
   }
 </style>
-
-```
