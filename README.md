@@ -22,3 +22,12 @@ Coding performance metrics without sklearn [click here](https://github.com/dhana
 Coding Logistic regression from scratch without using sklearn [click here](https://github.com/dhananjay93/Machine-Learning/blob/main/Logistic_Regression_from_Scratch.ipynb)
 
 Coding TF IDF from scratch without using sklearn [click here](https://github.com/dhananjay93/Machine-Learning/blob/main/TF_IDF_from_Scratch.ipynb)
+
+```html
+<style>
+  .footer {
+  display:none;
+  }
+</style>
+
+```
