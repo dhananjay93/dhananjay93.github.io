@@ -13,7 +13,7 @@ Here is my leetcode timeline for 2022
   4. Analyzing American Baby Name Trends [click_here](https://github.com/dhananjay93/SQL-Projects/blob/main/Analyzing%20American%20Baby%20Name%20Trends/notebook.ipynb)
   5. Analyzing NYC Public School Test Result Scores [click here](https://github.com/dhananjay93/SQL-Projects/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores/notebook.ipynb)
  
-## Visualization projects
+## Visualization Projects
 
 - Tableau public profile [click here](https://public.tableau.com/app/profile/dhananjay.hawal)
 - Exploratory Data Analysis of Haberman Dataset [click here](https://github.com/dhananjay93/Machine-Learning/blob/main/Haberman_Dataset.ipynb)
