@@ -23,6 +23,7 @@ Here is my leetcode timeline for 2022
 - Coding performance metrics without sklearn [click here](https://github.com/dhananjay93/dhananjay93.github.io/blob/main/5_Performance_metrics_Instructions.ipynb)
 - Coding Logistic regression from scratch without using sklearn [click here](https://github.com/dhananjay93/Machine-Learning/blob/main/Logistic_Regression_from_Scratch.ipynb)
 - Coding TF IDF from scratch without using sklearn [click here](https://github.com/dhananjay93/Machine-Learning/blob/main/TF_IDF_from_Scratch.ipynb)
+- Predicting Credit Card Approvals [click here](https://github.com/dhananjay93/Machine-Learning/blob/main/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
 
 <style>
   .footer {
