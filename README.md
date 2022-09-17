@@ -1,7 +1,7 @@
 ## Leetcode
 Here is my leetcode timeline for 2022
 
-  ![image](https://user-images.githubusercontent.com/39691422/189909940-af8e8d33-1198-4a66-a6d7-a39e9a62738a.png)
+  ![image](https://user-images.githubusercontent.com/39691422/190870190-ca299eb0-8d5f-4b81-8aab-13395ff34b30.png)
 
 - Python Leetcode Solved Questions [click here](https://github.com/dhananjay93/leetcode/tree/main/python)
 - SQL Leetcode Solved Questions [click here](https://github.com/dhananjay93/leetcode/tree/main/sql)
