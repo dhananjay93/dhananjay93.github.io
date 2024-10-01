@@ -1,6 +1,12 @@
 # 🏆 LeetCode Journey - 2022
 
-![LeetCode Stats](https://user-images.githubusercontent.com/39691422/203822954-ea81a5c3-322e-4488-8e43-1c9a742c7810.png)
+<img width="849" alt="image" src="https://github.com/user-attachments/assets/754f5282-c055-4680-af1e-744045ff28ec">
+
+# 🏆 LeetCode Journey - 2023
+
+<img width="849" alt="image" src="https://github.com/user-attachments/assets/b428db46-35c3-4528-961a-3ee9c46628a6">
+
+---
 
 - 🐍 **Python LeetCode Solved Questions**: [Explore Solutions](https://github.com/dhananjay93/leetcode/tree/main/python)
 - 🗄️ **SQL LeetCode Solved Questions**: [Explore Solutions](https://github.com/dhananjay93/leetcode/tree/main/sql)
