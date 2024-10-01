@@ -51,9 +51,3 @@
    🔍 *Focus:* Machine learning model for credit risk prediction.
 
 ---
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
