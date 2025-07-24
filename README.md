@@ -8,8 +8,10 @@
 
 ---
 
-- 🐍 **Python LeetCode Solved Questions**: [Explore Solutions](https://github.com/dhananjay93/leetcode/tree/main/python)
-- 🗄️ **SQL LeetCode Solved Questions**: [Explore Solutions](https://github.com/dhananjay93/leetcode/tree/main/sql)
+- 🐍 **Python LeetCode Solved Questions**: [Explore Solutions](https://github.com/dhananjay93/leetcode/tree/main/python)  
+- 🗄️ **SQL LeetCode Solved Questions**: [Explore Solutions](https://github.com/dhananjay93/leetcode/tree/main/sql)  
+- 🧠 **LeetCode + StrataScratch SQL Practice (2025)**: [Explore My Progress](https://github.com/dhananjay93/leetcode-sql-practice/tree/main/problems)  
+  ✨ *This repository shows how my SQL thinking and structuring have evolved over time through advanced problem-solving.*
 
 ---
 
@@ -55,5 +57,3 @@
 
 4. 💳 [**Predicting Credit Card Approvals**](https://github.com/dhananjay93/Machine-Learning/blob/main/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)  
    🔍 *Focus:* Machine learning model for credit risk prediction.
-
----
