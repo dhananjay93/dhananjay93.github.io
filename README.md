@@ -46,8 +46,6 @@ Welcome to my data portfolio! With 10 years of experience in data engineering an
 
 📊 [View Tableau Dashboard](https://public.tableau.com/app/profile/dhananjay.hawal/viz/OrderManagementDashboard/TableauStory)
 
-📁 Assets: [Architecture Diagram](#), [Cover Image](#)
-
 ---
 
 ## 🛠️ SQL Projects
