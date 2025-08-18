@@ -1,77 +1,95 @@
-# 🏆 LeetCode Journey - 2022
+👋 Hi, I'm Dhananjay Hawal
 
-<img width="849" alt="image" src="https://github.com/user-attachments/assets/754f5282-c055-4680-af1e-744045ff28ec">
+🌟 Analytics Engineer | Data Engineer | Data Strategist🔎 Helping businesses turn data into action for 10+ years📍 Based in India | Open to Remote/Hybrid Opportunities
 
-# 🏆 LeetCode Journey - 2023
+With a decade of experience in Data Engineering, Analytics, and BI, I specialize in building scalable data pipelines, automating workflows, and translating raw data into business insights using tools like Airbyte, dbt, Airflow, SQL, GCP, and Tableau.
 
-<img width="849" alt="image" src="https://github.com/user-attachments/assets/b428db46-35c3-4528-961a-3ee9c46628a6">
+🛠️ Tech Stack
 
----
+Languages: Python, SQL, Shell
+Cloud Platforms: GCP (BigQuery, Cloud SQL, GCS), AWS (basic)ETL/ELT: dbt, Airbyte, Fivetran, Apache Airflow
+Databases: PostgreSQL, MySQL, BigQuery
+Tools: Tableau, Metabase, Looker, Git, Docker, VS Code
 
-- 🐍 **Python LeetCode Solved Questions**: [Explore Solutions](https://github.com/dhananjay93/leetcode/tree/main/python)  
-- 🗄️ **SQL LeetCode Solved Questions**: [Explore Solutions](https://github.com/dhananjay93/leetcode/tree/main/sql)  
-- 🧠 **LeetCode + StrataScratch SQL Practice (2025)**: [Explore My Progress](https://github.com/dhananjay93/leetcode-sql-practice/tree/main/problems)  
-  ✨ *This repository shows how my SQL thinking and structuring have evolved over time through advanced problem-solving.*
+Tools & Technologies:
+• Programming: Python, R, Scala, SQL
+• Big Data: Hadoop, HDFS, SQOOP, Hive, HiveQL, Apache Spark, Apache Kafka, AirByte
+• Databases: MySQL, HBase (NoSQL), PostgreSQL
+• Data Visualization: Tableau, Power BI, Metabase
+• Cloud: GCP (BigQuery, Cloud SQL, GCS), AWS (S3, EMR, Redshift, Glue)
+• Skillsets: Data Engineering, Machine Learning, Business Intelligence
 
----
 
-## 🧱 End-to-End Data Pipeline Project (GCP + Airbyte + dbt + Airflow + Tableau)
+# 🚀 End-to-End Data Engineer / Analytics Engineer Portfolio
 
-📌 **Tech Stack**: PostgreSQL (Cloud SQL), Airbyte, dbt, Airflow, Tableau, GCP  
-📊 **Dashboard**: [Order Management Dashboard](https://public.tableau.com/app/profile/dhananjay.hawal/viz/OrderManagementDashboard/TableauStory)  
-📂 **Code & Setup Guide**: [ETL Project Repository](https://github.com/yourusername/your-etl-repo) <!-- replace with actual repo link -->
-
-🔧 **Key Steps:**
-
-1. **GCP Cloud SQL** – Hosted raw, intermediate, and final data tables.
-2. **Airbyte** – Ingested raw orders & returns data into intermediate schema using Incremental + Deduped mode.
-3. **dbt** – Created transformation models (`master_table.sql`, `fct_sales_summary.sql`) to clean and aggregate.
-4. **Airflow** – Scheduled dbt runs using a custom DAG with email alerting.
-5. **Tableau** – Built interactive dashboards to visualize KPIs by region, category, and time.
-
-📝 *Includes full setup guide with screenshots and step-by-step instructions in Notion or Markdown.*
+Welcome to my data portfolio! With 10 years of experience in data engineering and analytics, I specialize in building scalable pipelines, transforming data for business insights, developing machine learning projects and delivering reliable infrastructure for analytics and reporting.
 
 ---
 
-## 🛠️ SQL Projects:
+## 🏗️ Featured Project: GCP-based Modern Data Stack (Superstore Dataset)
 
-1. 🏬 [**Optimizing Online Sports Retail Revenue**](https://github.com/dhananjay93/SQL-Projects/blob/main/Optimizing%20Online%20Sports%20Retail%20Revenue/notebook.ipynb)  
-   💡 *Techniques:* Revenue forecasting, data-driven optimization strategies.
+🔗 [**Project Notion Page**](https://www.notion.so/ETL-project-251abcbb30a08072a4fddd4e73837f8f)
 
-2. 🎮 [**When Was the Golden Age of Video Games**](https://github.com/dhananjay93/SQL-Projects/blob/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games_/notebook.ipynb)  
-   📊 *Techniques:* Historical trend analysis, game release patterns.
+**Tech Stack**: PostgreSQL (Cloud SQL), Airbyte, dbt, Airflow, Tableau, GCP
 
-3. 🌍 [**Analyze International Debt Statistics**](https://github.com/dhananjay93/SQL-Projects/blob/main/Analyze%20International%20Debt%20Statistics/notebook.ipynb)  
-   💼 *Techniques:* Global debt analysis, debt-to-GDP ratios.
+**Highlights**:
 
-4. 👶 [**Analyzing American Baby Name Trends**](https://github.com/dhananjay93/SQL-Projects/blob/main/Analyzing%20American%20Baby%20Name%20Trends/notebook.ipynb)  
-   📅 *Techniques:* Trend analysis, cultural influences on name popularity.
+- Built a cloud-native ELT pipeline using open-source tools
+- Configured IP-restricted Cloud SQL with Airbyte & Xmin CDC
+- Created dbt transformations with test coverage
+- Orchestrated end-to-end jobs via Apache Airflow (Docker)
+- Developed Tableau dashboards on top of dbt models
 
-5. 🏫 [**Analyzing NYC Public School Test Result Scores**](https://github.com/dhananjay93/SQL-Projects/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores/notebook.ipynb)  
-   🧮 *Techniques:* Educational performance metrics, demographic comparisons.
+📊 [View Tableau Dashboard](https://public.tableau.com/app/profile/dhananjay.hawal/viz/OrderManagementDashboard/TableauStory)
 
----
-
-## 📊 Data Visualization Projects:
-
-- 🎨 **Tableau Public Profile**: [View Visualizations](https://public.tableau.com/app/profile/dhananjay.hawal)  
-   *Visualizations include:* EDA and dashboards for various datasets.
-
-- 🔍 [**Exploratory Data Analysis of the Haberman Dataset**](https://github.com/dhananjay93/Machine-Learning/blob/main/Haberman_Dataset.ipynb)  
-   💻 *Techniques:* Survival analysis, health dataset insights.
+📁 Assets: [Architecture Diagram](#), [Cover Image](#)
 
 ---
 
-## 🤖 Machine Learning Projects:
+## 🛠️ SQL Projects
 
-1. 📏 [**Coding Performance Metrics Without Sklearn**](https://github.com/dhananjay93/dhananjay93.github.io/blob/main/5_Performance_metrics_Instructions.ipynb)  
-   🔧 *Focus:* Implementing core ML metrics from scratch.
+1. 🏬 [Optimizing Online Sports Retail Revenue](https://github.com/dhananjay93/SQL-Projects/blob/main/Optimizing%20Online%20Sports%20Retail%20Revenue/notebook.ipynb)
+2. 🎮 [Golden Age of Video Games](https://github.com/dhananjay93/SQL-Projects/blob/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games_/notebook.ipynb)
+3. 🌍 [International Debt Statistics](https://github.com/dhananjay93/SQL-Projects/blob/main/Analyze%20International%20Debt%20Statistics/notebook.ipynb)
+4. 👶 [American Baby Name Trends](https://github.com/dhananjay93/SQL-Projects/blob/main/Analyzing%20American%20Baby%20Name%20Trends/notebook.ipynb)
+5. 🏫 [NYC Public School Test Scores](https://github.com/dhananjay93/SQL-Projects/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores/notebook.ipynb)
 
-2. 🔢 [**Logistic Regression from Scratch**](https://github.com/dhananjay93/Machine-Learning/blob/main/Logistic_Regression_from_Scratch.ipynb)  
-   🧠 *Focus:* Manual implementation of logistic regression algorithm.
+---
 
-3. 📜 [**TF-IDF from Scratch**](https://github.com/dhananjay93/Machine-Learning/blob/main/TF_IDF_from_Scratch.ipynb)  
-   ✍️ *Focus:* Custom implementation of text vectorization without libraries.
+## 📊 Visualization Projects
 
-4. 💳 [**Predicting Credit Card Approvals**](https://github.com/dhananjay93/Machine-Learning/blob/main/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)  
-   🔍 *Focus:* Machine learning model for credit risk prediction.
+- [Tableau Public Profile](https://public.tableau.com/app/profile/dhananjay.hawal)
+- [EDA: Haberman Dataset](https://github.com/dhananjay93/Machine-Learning/blob/main/Haberman_Dataset.ipynb)
+
+---
+
+## 🤖 Machine Learning Projects
+
+1. [Performance Metrics (No Sklearn)](https://github.com/dhananjay93/dhananjay93.github.io/blob/main/5_Performance_metrics_Instructions.ipynb)
+2. [Logistic Regression from Scratch](https://github.com/dhananjay93/Machine-Learning/blob/main/Logistic_Regression_from_Scratch.ipynb)
+3. [TF-IDF Implementation](https://github.com/dhananjay93/Machine-Learning/blob/main/TF_IDF_from_Scratch.ipynb)
+4. [Predicting Credit Card Approvals](https://github.com/dhananjay93/Machine-Learning/blob/main/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
+
+---
+
+## 📚 LeetCode Practice & SQL Thinking
+
+### 🏆 LeetCode Journey - 2022
+
+![LeetCode 2022](https://github.com/user-attachments/assets/754f5282-c055-4680-af1e-744045ff28ec)
+
+### 🏆 LeetCode Journey - 2023
+
+![LeetCode 2023](https://github.com/user-attachments/assets/b428db46-35c3-4528-961a-3ee9c46628a6)
+
+- 🐍 **Python LeetCode Solutions**: [Explore](https://github.com/dhananjay93/leetcode/tree/main/python)
+- 🗄️ **SQL LeetCode Solutions**: [Explore](https://github.com/dhananjay93/leetcode/tree/main/sql)
+- 🧠 **SQL Practice (LeetCode + StrataScratch)**: [Explore](https://github.com/dhananjay93/leetcode-sql-practice/tree/main/problems)
+
+✨ These solutions showcase my evolving SQL thinking and best practices.
+
+---
+
+📩 **Let’s Connect**:
+- [LinkedIn](https://www.linkedin.com/in/dhananjayhawal/)
+- [Tableau Public](https://public.tableau.com/app/profile/dhananjay.hawal)
