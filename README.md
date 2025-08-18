@@ -59,19 +59,19 @@ Welcome to my data portfolio! With 10 years of experience in data engineering an
 
 ---
 
-## 📊 Visualization Projects
-
-- [Tableau Public Profile](https://public.tableau.com/app/profile/dhananjay.hawal)
-- [EDA: Haberman Dataset](https://github.com/dhananjay93/Machine-Learning/blob/main/Haberman_Dataset.ipynb)
-
----
-
 ## 🤖 Machine Learning Projects
 
 1. [Performance Metrics (No Sklearn)](https://github.com/dhananjay93/dhananjay93.github.io/blob/main/5_Performance_metrics_Instructions.ipynb)
 2. [Logistic Regression from Scratch](https://github.com/dhananjay93/Machine-Learning/blob/main/Logistic_Regression_from_Scratch.ipynb)
 3. [TF-IDF Implementation](https://github.com/dhananjay93/Machine-Learning/blob/main/TF_IDF_from_Scratch.ipynb)
 4. [Predicting Credit Card Approvals](https://github.com/dhananjay93/Machine-Learning/blob/main/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
+
+---
+
+## 📊 Visualization Projects
+
+- [Tableau Public Profile](https://public.tableau.com/app/profile/dhananjay.hawal)
+- [EDA: Haberman Dataset](https://github.com/dhananjay93/Machine-Learning/blob/main/Haberman_Dataset.ipynb)
 
 ---
 
