@@ -1,26 +1,30 @@
-👋 Hi, I'm Dhananjay Hawal
+👋 Hi, I’m Dhananjay Hawal
 
-🌟 Analytics Engineer | Data Engineer | Data Strategist🔎 Helping businesses turn data into action for 10+ years📍 Based in India | Open to Remote/Hybrid Opportunities
+✨ **Analytics Engineer**  
+🔧 **Data Engineer**  
+📊 **Data Strategist** — Helping businesses turn data into action for 10+ years  
+📍 Based in India  
+✅ Open to Remote/Hybrid Opportunities
 
-With a decade of experience in Data Engineering, Analytics, and BI, I specialize in building scalable data pipelines, automating workflows, and translating raw data into business insights using tools like Airbyte, dbt, Airflow, SQL, GCP, and Tableau.
+With a decade of experience in **Data Engineering**, **Analytics**, and **BI**, I specialize in:
+
+- Building scalable data pipelines  
+- Automating workflows  
+- Translating raw data into business insights using EDA and Machine learning models
+- Deciding key metrics with product managers and presenting to CXOs
 
 🛠️ Tech Stack
 
-Languages: Python, SQL, Shell
+Languages: Python, R, Scala, SQL
 Cloud Platforms: GCP (BigQuery, Cloud SQL, GCS), AWS (basic)ETL/ELT: dbt, Airbyte, Fivetran, Apache Airflow
-Databases: PostgreSQL, MySQL, BigQuery
+Databases: MySQL, HBase (NoSQL), PostgreSQL
 Tools: Tableau, Metabase, Looker, Git, Docker, VS Code
-
-Tools & Technologies:
-• Programming: Python, R, Scala, SQL
-• Big Data: Hadoop, HDFS, SQOOP, Hive, HiveQL, Apache Spark, Apache Kafka, AirByte
-• Databases: MySQL, HBase (NoSQL), PostgreSQL
-• Data Visualization: Tableau, Power BI, Metabase
-• Cloud: GCP (BigQuery, Cloud SQL, GCS), AWS (S3, EMR, Redshift, Glue)
-• Skillsets: Data Engineering, Machine Learning, Business Intelligence
+Data Visualization: Tableau, Power BI, Metabase
+Big Data: Hadoop, HDFS, SQOOP, Hive, HiveQL, Apache Spark, Apache Kafka, AirByte
+Skillsets: Data Engineering, Machine Learning, Business Intelligence
 
 
-# 🚀 End-to-End Data Engineer / Analytics Engineer Portfolio
+# 🚀 Data Analytics & Engineering portfolio
 
 Welcome to my data portfolio! With 10 years of experience in data engineering and analytics, I specialize in building scalable pipelines, transforming data for business insights, developing machine learning projects and delivering reliable infrastructure for analytics and reporting.
 
