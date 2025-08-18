@@ -15,13 +15,13 @@ With a decade of experience in **Data Engineering**, **Analytics**, and **BI**, 
 
 🛠️ Tech Stack
 
-Languages: Python, R, Scala, SQL
-Cloud Platforms: GCP (BigQuery, Cloud SQL, GCS), AWS (basic)ETL/ELT: dbt, Airbyte, Fivetran, Apache Airflow
-Databases: MySQL, HBase (NoSQL), PostgreSQL
-Tools: Tableau, Metabase, Looker, Git, Docker, VS Code
-Data Visualization: Tableau, Power BI, Metabase
-Big Data: Hadoop, HDFS, SQOOP, Hive, HiveQL, Apache Spark, Apache Kafka, AirByte
-Skillsets: Data Engineering, Machine Learning, Business Intelligence
+- Languages: Python, R, Scala, SQL
+- Cloud Platforms: GCP (BigQuery, Cloud SQL, GCS), AWS (basic)ETL/ELT: dbt, Airbyte, Fivetran, Apache Airflow
+- Databases: MySQL, HBase (NoSQL), PostgreSQL
+- Tools: Tableau, Metabase, Looker, Git, Docker, VS Code
+- Data Visualization: Tableau, Power BI, Metabase
+- Big Data: Hadoop, HDFS, SQOOP, Hive, HiveQL, Apache Spark, Apache Kafka, AirByte
+- Skillsets: Data Engineering, Machine Learning, Business Intelligence
 
 
 # 🚀 Data Analytics & Engineering portfolio
