@@ -15,6 +15,24 @@
 
 ---
 
+## 🧱 End-to-End Data Pipeline Project (GCP + Airbyte + dbt + Airflow + Tableau)
+
+📌 **Tech Stack**: PostgreSQL (Cloud SQL), Airbyte, dbt, Airflow, Tableau, GCP  
+📊 **Dashboard**: [Order Management Dashboard](https://public.tableau.com/app/profile/dhananjay.hawal/viz/OrderManagementDashboard/TableauStory)  
+📂 **Code & Setup Guide**: [ETL Project Repository](https://github.com/yourusername/your-etl-repo) <!-- replace with actual repo link -->
+
+🔧 **Key Steps:**
+
+1. **GCP Cloud SQL** – Hosted raw, intermediate, and final data tables.
+2. **Airbyte** – Ingested raw orders & returns data into intermediate schema using Incremental + Deduped mode.
+3. **dbt** – Created transformation models (`master_table.sql`, `fct_sales_summary.sql`) to clean and aggregate.
+4. **Airflow** – Scheduled dbt runs using a custom DAG with email alerting.
+5. **Tableau** – Built interactive dashboards to visualize KPIs by region, category, and time.
+
+📝 *Includes full setup guide with screenshots and step-by-step instructions in Notion or Markdown.*
+
+---
+
 ## 🛠️ SQL Projects:
 
 1. 🏬 [**Optimizing Online Sports Retail Revenue**](https://github.com/dhananjay93/SQL-Projects/blob/main/Optimizing%20Online%20Sports%20Retail%20Revenue/notebook.ipynb)  
