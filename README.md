@@ -24,6 +24,19 @@ With a decade of experience in **Data Engineering**, **Analytics**, and **BI**, 
 - Big Data: Hadoop, HDFS, SQOOP, Hive, HiveQL, Apache Spark, Apache Kafka, AirByte
 - Skillsets: Data Engineering, Machine Learning, Business Intelligence
 
+---
+
+## 🎓 Education  
+
+| Degree / Exam | Institution | Year | Score |
+|---------------|-------------|------|-------|
+| MS in Data Engineering *(In Progress)* | Scaler Academy | 2025 | — |
+| PG Diploma in Artificial Intelligence & Machine Learning | University of Hyderabad | 2022 | 84% |
+| B.Tech in Mechanical Engineering | Sardar Patel College of Engineering, Mumbai | 2015 | 8.4 / 10 CGPA |
+| XII (Science) | Vivekanand College, Kolhapur | 2011 | 91% |
+| X (SSC) | PSVU, Kolhapur | 2009 | 90% |
+
+---
 
 # 🚀 Data Analytics & Engineering portfolio
 
