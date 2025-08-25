@@ -36,8 +36,10 @@ Welcome to my data portfolio! With 10 years of experience in data engineering an
 I also share my thoughts and learnings on data engineering and analytics through blogs:  
 
 1. 📑 [**ETL vs ELT: Which One Should You Choose?**](https://www.notion.so/ETL-vs-ELT-Which-One-Should-You-Choose-25aabcbb30a0808eb6bed5a23a2aedbc?source=copy_link)  
-   *A practical guide explaining the difference between ETL and ELT with real-world examples and diagrams.*  
+   *A field guide to ETL vs ELT with real scenarios and diagrams (Twitter API, Mixpanel events, dbt, etc.).*
 
+2. 📊 [**Choosing the Right Visualizations in Product Analytics Tools for User Behavior Analysis**](#)  
+   *When to use **Insights**, **Funnels**, and **Flows** in Mixpanel/Clevertap—plus drop-off formulas.*
 (More blogs coming soon on modern data stack, data modeling best practices, and real project case studies!)  
 
 ---
