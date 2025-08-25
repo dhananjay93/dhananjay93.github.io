@@ -26,18 +26,6 @@ With a decade of experience in **Data Engineering**, **Analytics**, and **BI**, 
 
 ---
 
-## 🎓 Education  
-
-| Degree / Exam | Institution | Year | Score |
-|---------------|-------------|------|-------|
-| MS in Data Engineering *(In Progress)* | Scaler Academy | 2025 | — |
-| PG Diploma in Artificial Intelligence & Machine Learning | University of Hyderabad | 2022 | 84% |
-| B.Tech in Mechanical Engineering | Sardar Patel College of Engineering, Mumbai | 2015 | 8.4 / 10 CGPA |
-| XII (Science) | Vivekanand College, Kolhapur | 2011 | 91% |
-| X (SSC) | PSVU, Kolhapur | 2009 | 90% |
-
----
-
 # 🚀 Data Analytics & Engineering portfolio
 
 Welcome to my data portfolio! With 10 years of experience in data engineering and analytics, I specialize in building scalable pipelines, transforming data for business insights, developing machine learning projects and delivering reliable infrastructure for analytics and reporting.
@@ -116,6 +104,18 @@ I also share my thoughts and learnings on data engineering and analytics through
 - 🧠 **SQL Practice (LeetCode + StrataScratch)**: [Explore](https://github.com/dhananjay93/leetcode-sql-practice/tree/main/problems)
 
 ✨ These solutions showcase my evolving SQL thinking and best practices.
+
+---
+
+## 🎓 Education  
+
+| Degree / Exam | Institution | Year | Score |
+|---------------|-------------|------|-------|
+| MS in Data Engineering *(In Progress)* | Scaler Academy | 2025 | — |
+| PG Diploma in Artificial Intelligence & Machine Learning | University of Hyderabad | 2022 | 84% |
+| B.Tech in Mechanical Engineering | Sardar Patel College of Engineering, Mumbai | 2015 | 8.4 / 10 CGPA |
+| XII (Science) | Vivekanand College, Kolhapur | 2011 | 91% |
+| X (SSC) | PSVU, Kolhapur | 2009 | 90% |
 
 ---
 
