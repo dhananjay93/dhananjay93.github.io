@@ -38,8 +38,11 @@ I also share my thoughts and learnings on data engineering and analytics through
 
 2. 📊 [**Choosing the Right Visualizations in Product Analytics Tools for User Behavior Analysis**](#)  
    *When to use **Insights**, **Funnels**, and **Flows** in Mixpanel/Clevertap—plus drop-off formulas.*
-(More blogs coming soon on modern data stack, data modeling best practices, and real project case studies!)  
 
+3. 🗄️ [**Star Schema vs Snowflake Schema: A Hands-On Project with Superstore Data**](https://www.notion.so/Data-Modelling-Star-vs-Snowflake-Schema-25babcbb30a080ccbba8e0908f1e21e1?source=copy_link)
+   *Step-by-step walkthrough of designing and populating STAR and SNOWFLAKE schemas in MySQL/Postgres using Superstore orders data, with SQL scripts and GitHub repo.*
+   (More blogs coming soon on modern data stack, data modeling best practices, and real project case studies!)
+   
 ---
 
 ## 🏗️ Featured Project: GCP-based Modern Data Stack (Superstore Dataset)
