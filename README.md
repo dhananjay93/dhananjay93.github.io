@@ -7,8 +7,9 @@
 
 ## 🌟 About Me  
 
-I design and build **scalable data systems** and deliver **actionable insights**.  
-With a decade of experience across **data engineering, analytics, and BI**, I specialize in:  
+I turn messy data into business clarity.
+Over the past decade, I’ve built pipelines, models, and dashboards that help product leaders and CXOs make faster, smarter decisions. 
+I specialize in:  
 
 - Building robust data pipelines and automation workflows  
 - Developing dbt models and machine learning projects  
