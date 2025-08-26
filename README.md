@@ -3,15 +3,17 @@
 ✨ **Analytics Engineer**  
 🔧 **Data Engineer**  
 📊 **Data Strategist** — Helping businesses turn data into action for 10+ years  
-📍 Based in India  
-✅ Open to Remote/Hybrid Opportunities
+📍 Based in India
 
-With a decade of experience in **Data Engineering**, **Analytics**, and **BI**, I specialize in:
+## 🌟 About Me  
 
-- Building scalable data pipelines  
-- Automating workflows  
-- Translating raw data into business insights using EDA and Machine learning models
-- Deciding key metrics with product managers and presenting to CXOs
+I design and build **scalable data systems** and deliver **actionable insights**.  
+With a decade of experience across **data engineering, analytics, and BI**, I specialize in:  
+
+- Building robust data pipelines and automation workflows  
+- Developing dbt models and machine learning projects  
+- Driving product and business metrics with product managers  
+- Presenting insights and dashboards to leadership and CXOs 
 
 🛠️ Tech Stack
 
@@ -23,12 +25,6 @@ With a decade of experience in **Data Engineering**, **Analytics**, and **BI**, 
 - Data Visualization: Tableau, Power BI, Looker Studio, Metabase
 - Big Data: Hadoop, HDFS, SQOOP, Hive, HiveQL, Apache Spark, Apache Kafka, AirByte
 - Skillsets: Data Engineering, Machine Learning, Business Intelligence
-
----
-
-# 🚀 Data Analytics & Engineering portfolio
-
-Welcome to my data portfolio! With 10 years of experience in data engineering and analytics, I specialize in building scalable pipelines, transforming data for business insights, developing machine learning projects and delivering reliable infrastructure for analytics and reporting.
 
 ---
 
