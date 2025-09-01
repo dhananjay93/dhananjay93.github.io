@@ -36,7 +36,7 @@ I also share my thoughts and learnings on data engineering and analytics through
 1. 📑 [**ETL vs ELT: Which One Should You Choose?**](https://www.notion.so/ETL-vs-ELT-Which-One-Should-You-Choose-25aabcbb30a0808eb6bed5a23a2aedbc?source=copy_link)  
    *A field guide to ETL vs ELT with real scenarios and diagrams (Twitter API, Mixpanel events, dbt, etc.).*
 
-2. 📊 [**Choosing the Right Visualizations in Product Analytics Tools for User Behavior Analysis**]([#](https://dhananjay93.github.io/decoding_data_with_DJ/2024/11/25/product-analytics-chart.html))  
+2. 📊 [**Choosing the Right Visualizations in Product Analytics Tools for User Behavior Analysis**](https://dhananjay93.github.io/decoding_data_with_DJ/2024/11/25/product-analytics-chart.html)
    *When to use **Insights**, **Funnels**, and **Flows** in Mixpanel/Clevertap—plus drop-off formulas.*
 
 3. 🗄️ [**Star Schema vs Snowflake Schema: A Hands-On Project with Superstore Data**](https://www.notion.so/Data-Modelling-Star-vs-Snowflake-Schema-25babcbb30a080ccbba8e0908f1e21e1?source=copy_link)
