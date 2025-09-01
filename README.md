@@ -46,7 +46,9 @@ I also share my thoughts and learnings on data engineering and analytics through
    
 ---
 
-## 🏗️ Featured Project: GCP-based Modern Data Stack (Superstore Dataset)
+## 🏗️ Featured Project
+
+### 1. GCP-based Modern Data Stack (Superstore Dataset)
 
 🔗 [**Project Notion Page**](https://www.notion.so/ETL-project-251abcbb30a08072a4fddd4e73837f8f)
 
@@ -61,6 +63,18 @@ I also share my thoughts and learnings on data engineering and analytics through
 - Developed Tableau dashboards on top of dbt models
 
 📊 [View Tableau Dashboard](https://public.tableau.com/app/profile/dhananjay.hawal/viz/OrderManagementDashboard/TableauStory)
+
+### 2. dbt + Snowflake: Call Center Analytics Project  
+🔗 [**GitHub Repo**](https://github.com/dhananjay93/dbt_snowflake_data_end_to_end_project)  
+
+**Tech Stack**: dbt, Snowflake, Looker Studio  
+
+**Highlights**:  
+- Modeled raw call center data into staging, intermediate, and marts layers  
+- Created product & category KPIs (conversion rate, AOV, revenue, rolling 7-day trends)  
+- Built rep × product performance analysis and funnel metrics  
+- Implemented dbt tests, source freshness, macros, and SCD2 snapshots  
+- Documented everything with dbt docs and visualized insights in Looker Studio  
 
 ---
 
