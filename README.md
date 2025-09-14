@@ -64,7 +64,22 @@ I also share my thoughts and learnings on data engineering and analytics through
 
 📊 [View Tableau Dashboard](https://public.tableau.com/app/profile/dhananjay.hawal/viz/OrderManagementDashboard/TableauStory)
 
-### 2. dbt + Snowflake: Call Center Analytics Project  
+### 2. 🚀 Building an End-to-End Data Pipeline with Open Source Tools 
+🔗 [**GitHub Repo**](https://github.com/dhananjay93/End-to-end-data-pipeline-using-open-source-tools)  
+
+**Tech Stack**: dbt, Postgres, Airflow, Metabase
+
+**Highlights**: 
+
+- Designed a complete pipeline using the Medallion Architecture (Bronze → Silver → Gold)
+  - Bronze: Raw data ingestion into PostgreSQL
+  - Silver: Applied cleaning, PII handling, and dbt test coverage
+  - Gold: Built dimensional models optimized for analytics & reporting
+- Automated orchestration with Apache Airflow (Docker-based setup)
+- Delivered insights through Metabase dashboards connected to Gold models
+- Fully open-source implementation showing how modern stacks can be built without proprietary platforms
+
+### 3. dbt + Snowflake: Call Center Analytics Project  
 🔗 [**GitHub Repo**](https://github.com/dhananjay93/dbt_snowflake_data_end_to_end_project)  
 
 **Tech Stack**: dbt, Snowflake, Looker Studio  
