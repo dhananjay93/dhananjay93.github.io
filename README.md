@@ -44,6 +44,11 @@ I also share my thoughts and learnings on data engineering and analytics through
    *Step-by-step walkthrough of designing and populating STAR and SNOWFLAKE schemas in MySQL/Postgres using Superstore orders data, with SQL scripts and GitHub repo.*
    (More blogs coming soon on modern data stack, data modeling best practices, and real project case studies!)
    
+4. 🗄️ [**Window Functions Demystified**](https://github.com/dhananjay93/window_functions)
+
+   *My Most Used SQL Window Functions — All in One Query.*
+   (More blogs coming soon on modern data stack, data modeling best practices, and real project case studies!)
+   
 ---
 
 ## 🏗️ Featured Project
