@@ -154,6 +154,13 @@ I also share my thoughts and learnings on data engineering and analytics through
 
 ---
 
+## ⭐ Recommendations  
+
+<img width="793" height="513" alt="Screenshot 2025-09-15 at 10 23 44 AM" src="https://github.com/user-attachments/assets/a40522d2-bd94-4663-a4eb-43351716aef8" />
+<img width="785" height="272" alt="Screenshot 2025-09-15 at 10 24 54 AM" src="https://github.com/user-attachments/assets/5bcba053-374d-4e8f-918c-fa51f929f0b8" />
+
+
+---
 📩 **Let’s Connect**:
 - [LinkedIn](https://www.linkedin.com/in/dhananjayhawal/)
 - [Tableau Public](https://public.tableau.com/app/profile/dhananjay.hawal)
