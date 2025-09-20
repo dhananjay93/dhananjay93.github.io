@@ -28,8 +28,70 @@ I specialize in:
 - Skillsets: Data Engineering, Machine Learning, Business Intelligence
 
 ---
+## 🏗️ Data Engineering Projects
 
-## ✍️ Blog / Writing  
+### 1. 🌦 Weather Data Pipeline on GCP (Composer → BigQuery → Colab → Looker Studio)
+
+🔗 [**GitHub Repo**](https://github.com/dhananjay93/GCP_Data_Pipeline_using_weather_data)
+ [**Project Notion Page**](https://www.notion.so/Weather-Data-Pipeline-GCP-Composer-BigQuery-Collab-Looker-274abcbb30a0806c9c3fd53b1cec5ab4?source=copy_link)
+
+Tech Stack: OpenWeather API, Google Cloud Composer (Airflow), BigQuery, Cloud Storage, Google Colab, Looker Studio
+
+Highlights:
+
+- Built a real-time pipeline fetching weather data (temp, humidity, conditions) for 15 Indian cities
+- Orchestrated ingestion with Cloud Composer (Airflow), ensuring hourly updates
+- Stored curated data in BigQuery, partitioned & clustered for cost optimization
+- Archived raw JSON to Cloud Storage for backfills & audits
+- Created Looker Studio dashboards for temperature trends, humidity & city-wise comparisons
+- Performed advanced analysis in Google Colab notebooks
+
+### 2. GCP-based Modern Data Stack (Superstore Dataset)
+
+🔗 [**Project Notion Page**](https://www.notion.so/ETL-project-251abcbb30a08072a4fddd4e73837f8f)
+
+**Tech Stack**: PostgreSQL (Cloud SQL), Airbyte, dbt, Airflow, Tableau, GCP
+
+**Highlights**:
+
+- Built a cloud-native ELT pipeline using open-source tools
+- Configured IP-restricted Cloud SQL with Airbyte & Xmin CDC
+- Created dbt transformations with test coverage
+- Orchestrated end-to-end jobs via Apache Airflow (Docker)
+- Developed Tableau dashboards on top of dbt models
+
+📊 [View Tableau Dashboard](https://public.tableau.com/app/profile/dhananjay.hawal/viz/OrderManagementDashboard/TableauStory)
+
+### 3. 🚀 Building an End-to-End Data Pipeline with Open Source Tools 
+🔗 [**GitHub Repo**](https://github.com/dhananjay93/End-to-end-data-pipeline-using-open-source-tools)  
+
+**Tech Stack**: dbt, Postgres, Airflow, Metabase
+
+**Highlights**: 
+
+- Designed a complete pipeline using the Medallion Architecture (Bronze → Silver → Gold)
+  - Bronze: Raw data ingestion into PostgreSQL
+  - Silver: Applied cleaning, PII handling, and dbt test coverage
+  - Gold: Built dimensional models optimized for analytics & reporting
+- Automated orchestration with Apache Airflow (Docker-based setup)
+- Delivered insights through Metabase dashboards connected to Gold models
+- Fully open-source implementation showing how modern stacks can be built without proprietary platforms
+
+### 4. dbt + Snowflake: Call Center Analytics Project  
+🔗 [**GitHub Repo**](https://github.com/dhananjay93/dbt_snowflake_data_end_to_end_project)  
+
+**Tech Stack**: dbt, Snowflake, Looker Studio  
+
+**Highlights**:  
+- Modeled raw call center data into staging, intermediate, and marts layers  
+- Created product & category KPIs (conversion rate, AOV, revenue, rolling 7-day trends)  
+- Built rep × product performance analysis and funnel metrics  
+- Implemented dbt tests, source freshness, macros, and SCD2 snapshots  
+- Documented everything with dbt docs and visualized insights in Looker Studio  
+
+---
+
+## 📖 Data Stories by DJ  
 
 I also share my thoughts and learnings on data engineering and analytics through blogs:  
 
@@ -48,53 +110,6 @@ I also share my thoughts and learnings on data engineering and analytics through
 
    *My Most Used SQL Window Functions — All in One Query.*
    (More blogs coming soon on modern data stack, data modeling best practices, and real project case studies!)
-   
----
-
-## 🏗️ Featured Project
-
-### 1. GCP-based Modern Data Stack (Superstore Dataset)
-
-🔗 [**Project Notion Page**](https://www.notion.so/ETL-project-251abcbb30a08072a4fddd4e73837f8f)
-
-**Tech Stack**: PostgreSQL (Cloud SQL), Airbyte, dbt, Airflow, Tableau, GCP
-
-**Highlights**:
-
-- Built a cloud-native ELT pipeline using open-source tools
-- Configured IP-restricted Cloud SQL with Airbyte & Xmin CDC
-- Created dbt transformations with test coverage
-- Orchestrated end-to-end jobs via Apache Airflow (Docker)
-- Developed Tableau dashboards on top of dbt models
-
-📊 [View Tableau Dashboard](https://public.tableau.com/app/profile/dhananjay.hawal/viz/OrderManagementDashboard/TableauStory)
-
-### 2. 🚀 Building an End-to-End Data Pipeline with Open Source Tools 
-🔗 [**GitHub Repo**](https://github.com/dhananjay93/End-to-end-data-pipeline-using-open-source-tools)  
-
-**Tech Stack**: dbt, Postgres, Airflow, Metabase
-
-**Highlights**: 
-
-- Designed a complete pipeline using the Medallion Architecture (Bronze → Silver → Gold)
-  - Bronze: Raw data ingestion into PostgreSQL
-  - Silver: Applied cleaning, PII handling, and dbt test coverage
-  - Gold: Built dimensional models optimized for analytics & reporting
-- Automated orchestration with Apache Airflow (Docker-based setup)
-- Delivered insights through Metabase dashboards connected to Gold models
-- Fully open-source implementation showing how modern stacks can be built without proprietary platforms
-
-### 3. dbt + Snowflake: Call Center Analytics Project  
-🔗 [**GitHub Repo**](https://github.com/dhananjay93/dbt_snowflake_data_end_to_end_project)  
-
-**Tech Stack**: dbt, Snowflake, Looker Studio  
-
-**Highlights**:  
-- Modeled raw call center data into staging, intermediate, and marts layers  
-- Created product & category KPIs (conversion rate, AOV, revenue, rolling 7-day trends)  
-- Built rep × product performance analysis and funnel metrics  
-- Implemented dbt tests, source freshness, macros, and SCD2 snapshots  
-- Documented everything with dbt docs and visualized insights in Looker Studio  
 
 ---
 
